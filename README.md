@@ -1,8 +1,9 @@
-<p align="center">
+<div align="center">
   <img src="graphics/TV_GZSL.png" alt="TV-GZSL Framework" width="67%"/>
-  <h3 align="center">A <b>T</b>oolkit for large scale analysis of <b>V</b>isual features and<br> Generalized Zero-Shot Learning (<b>GZSL</b>) methods</h3>
-</p>
+</div>
+<h2 align="center">A <b>T</b>oolkit for large scale analysis of <b>V</b>isual features and<br> Generalized Zero-Shot Learning (<b>GZSL</b>) methods</h2>
 
+<hr>
 
 ### Table of Contents
 
